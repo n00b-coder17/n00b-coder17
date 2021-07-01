@@ -32,7 +32,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 <br />
 ---
-<img align="left" alt="Sayan's GitHub Stats" src="https://github-readme-stats-n00b-coder17.vercel.app/api?username=n00b-coder17&show_icons=true&theme=tokyonight&hide_border=false" />
+<img align="left" alt="Sayan's GitHub Stats" src="https://github-readme-stats-n00b-coder17.vercel.app/api?username=n00b-coder17&show_icons=true&theme=onedark&hide_border=false" />
 
 [linkedin]: https://www.linkedin.com/in/sayan-bhattacharjee-3901a5211/
 [github]: https://github.com/n00b-coder17/
