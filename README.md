@@ -34,5 +34,8 @@
 ---
 <img align="left" alt="Sayan's GitHub Stats" src="https://github-readme-stats-n00b-coder17.vercel.app/api?username=n00b-coder17&show_icons=true&theme=synthwave&hide_border=false" />
 
+
+[![Top Langs](https://https://github-readme-stats-n00b-coder17.vercel.app/api/top-langs/?username=n00b-coder17)](https://github.com/n00b-coder17/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/sayan-bhattacharjee-3901a5211/
 [github]: https://github.com/n00b-coder17/
