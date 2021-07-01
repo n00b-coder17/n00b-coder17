@@ -2,6 +2,7 @@
 ## I'm a student currently interested in Web Development.
 
 <br />
+
 - 🔭 I am in love with front-end web design.
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other content creators
