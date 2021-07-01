@@ -32,5 +32,11 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-n00b-coder17.vercel.app/api?username=n00b-coder17&show_icons=true&hide_border=true" />
+
+</details>
 [linkedin]: https://www.linkedin.com/in/sayan-bhattacharjee-3901a5211/
 [github]: https://github.com/n00b-coder17/
